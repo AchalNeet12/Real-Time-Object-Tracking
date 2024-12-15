@@ -88,7 +88,7 @@ The project utilizes the COCO Dataset (Common Objects in Context) for object det
  Track players and objects (e.g., ball) in real-time for tactical insights.
 
 ## 📝 Future Enhancements:
- **Integration with Cloud APIs:**
+- **Integration with Cloud APIs:**
  Enable deployment for large-scale monitoring systems using cloud services.
   
 - **Custom Model Training:**
