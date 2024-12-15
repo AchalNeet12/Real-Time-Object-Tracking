@@ -64,22 +64,22 @@ Handles frame capture, model inference, and rendering in real-time.
  Deployable via local systems or cloud platforms like Streamlit Cloud, AWS, or Heroku.
 
 ## 📊 Model Results:
-- ✅ YOLOv8n (Nano)
+ ✅ YOLOv8n (Nano)
 - Average accuracy: ~70-75%
 - Processing speed: ~45-50 FPS on modern GPUs
 - Best Use Case: Real-time detection on low-end hardware and edge devices.
   
-- ✅ YOLOv8s (Small)
+ ✅ YOLOv8s (Small)
 - Average accuracy: ~80-85%
 - Processing speed: ~35-40 FPS on modern GPUs
 - Best Use Case: Fast object detection for applications like video surveillance and mobile devices.
   
-- ✅ YOLOv8m (Medium)
+ ✅ YOLOv8m (Medium)
 - Average accuracy: ~82-88%
 - Processing speed: ~30-35 FPS on modern GPUs
 - Best Use Case: Industrial applications, security cameras, and applications requiring a balance of accuracy and speed.
   
-- ✅ YOLOv8l (Large)
+ ✅ YOLOv8l (Large)
 - Average accuracy: ~85-90%
 - Processing speed: ~20-25 FPS on modern GPUs
 - Best Use Case: High-precision tasks like autonomous vehicles and advanced surveillance systems.
