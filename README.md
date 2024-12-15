@@ -4,13 +4,13 @@
 Real-Time Object Tracking is a tool that uses advanced YOLO (You Only Look Once) models to detect and track objects in real-time. It allows users to process video streams or images, identifying and tracking multiple objects simultaneously with high accuracy. The app provides an intuitive interface where users can select from different YOLO models and view detected objects in live webcam feeds or uploaded files.
 
 ## 🔍 YOLO Model
-YOLOv8n (Nano):
+- **YOLOv8n (Nano):**
 Smallest and fastest model, ideal for devices with low computational power.
-YOLOv8s (Small):
+- **YOLOv8s (Small):**
 Balances speed and accuracy for moderately constrained environments.
-YOLOv8m (Medium):
+-**YOLOv8m (Medium):**
 Higher accuracy with moderate computational demand.
-YOLOv8l (Large):
+-**YOLOv8l (Large):**
 Highest accuracy but requires more resources.
 
 ## 📌 Dataset Used:
