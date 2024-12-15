@@ -6,10 +6,13 @@ Real-Time Object Tracking is a tool that uses advanced YOLO (You Only Look Once)
 ## 🔍 YOLO Model
  ✅ **YOLOv8n (Nano):**
 - Smallest and fastest model, ideal for devices with low computational power.
+  
  ✅ **YOLOv8s (Small):**
 - Balances speed and accuracy for moderately constrained environments.
+  
  ✅ **YOLOv8m (Medium):**
 - Higher accuracy with moderate computational demand.
+  
  ✅ **YOLOv8l (Large):**
 - Highest accuracy but requires more resources.
 
