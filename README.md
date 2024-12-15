@@ -5,13 +5,13 @@ Real-Time Object Tracking is a tool that uses advanced YOLO (You Only Look Once)
 
 ## 🔍 YOLO Model
 - **YOLOv8n (Nano):**
-Smallest and fastest model, ideal for devices with low computational power.
+- Smallest and fastest model, ideal for devices with low computational power.
 - **YOLOv8s (Small):**
-Balances speed and accuracy for moderately constrained environments.
--**YOLOv8m (Medium):**
-Higher accuracy with moderate computational demand.
--**YOLOv8l (Large):**
-Highest accuracy but requires more resources.
+- Balances speed and accuracy for moderately constrained environments.
+- **YOLOv8m (Medium):**
+- Higher accuracy with moderate computational demand.
+- **YOLOv8l (Large):**
+- Highest accuracy but requires more resources.
 
 ## 📌 Dataset Used:
 The project utilizes the COCO Dataset (Common Objects in Context) for object detection. This dataset includes 80 diverse object classes like humans, animals, vehicles, and furniture. It provides labeled bounding boxes, making it suitable for training YOLO models.
